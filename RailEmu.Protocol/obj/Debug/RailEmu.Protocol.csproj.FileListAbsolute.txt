@@ -1,0 +1,8 @@
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Protocol\bin\Debug\RailEmu.Protocol.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Protocol\bin\Debug\RailEmu.Protocol.pdb
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Protocol\bin\Debug\System.Drawing.Primitives.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Protocol\bin\Debug\zlib.net.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Protocol\obj\Debug\RailEmu.Protocol.csprojResolveAssemblyReference.cache
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Protocol\obj\Debug\RailEmu.Protocol.csproj.CoreCompileInputs.cache
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Protocol\obj\Debug\RailEmu.Protocol.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Protocol\obj\Debug\RailEmu.Protocol.pdb

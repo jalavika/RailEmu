@@ -1,0 +1,15 @@
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\RailEmu.Auth.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\RailEmu.Auth.pdb
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\RailEmu.Common.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\RailEmu.Protocol.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\Dapper.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\zlib.net.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\RailEmu.Common.pdb
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\RailEmu.Common.dll.config
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\RailEmu.Protocol.pdb
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\MySql.Data.xml
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\bin\Debug\Dapper.xml
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\obj\Debug\RailEmu.Auth.csprojResolveAssemblyReference.cache
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\obj\Debug\RailEmu.Auth.csproj.CoreCompileInputs.cache
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\obj\Debug\RailEmu.Auth.dll
+D:\[USER]\Documents\Code\Dofus\Dev\2.0\[Src] RailEmu\RailEmu.Auth\obj\Debug\RailEmu.Auth.pdb
